@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create *)",
+      "Bash(npm install *)",
+      "Bash(mkdir assets *)",
+      "Bash(mkdir components\\\\ui components\\\\common pages\\\\admin pages\\\\dashboard)",
+      "Bash(npm run *)"
+    ]
+  }
+}
